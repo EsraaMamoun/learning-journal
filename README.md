@@ -16,4 +16,3 @@ The growth mindset is very important to creativity, possibility, and to achieve 
 This site was built using [learning-jornal](https://esraamamoun.github.io/learning-journal/).
 
 
-[.](https://3kllhk1ibq34qk6sp3bhtox1-wpengine.netdna-ssl.com/wp-content/uploads/NewGrowthMindset2.png)
