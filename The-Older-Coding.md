@@ -14,5 +14,6 @@ Ok, what about third-party options? Let’s talk about software like: Notepad++,
 ![.](https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Notepad%2B%2B_Logo.svg/1200px-Notepad%2B%2B_Logo.svg.png)
 
 
-BB Edit is software that you purchase. But BB Edit comes with a 30- day free trial. After the 30 days is over, if you still want the free
-version, simply continue using BB Edit, and you’ll get the same features as you would have gotten in TextWrangler. If you want the full features in BB Edit, the full cost for a full license is $49.99. Find out more by clicking [here](https://www.barebones.com/products/textwrangler/)
+
+`BB Edit is software that you purchase. But BB Edit comes with a 30- day free trial. After the 30 days is over, if you still want the free
+version, simply continue using BB Edit, and you’ll get the same features as you would have gotten in TextWrangler. If you want the full features in BB Edit, the full cost for a full license is $49.99. Find out more by clicking [here](https://www.barebones.com/products/textwrangler/)`
