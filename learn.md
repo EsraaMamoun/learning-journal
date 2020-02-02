@@ -2,6 +2,8 @@
 
 **Markdown is a lightweight and easy-to-use syntax for styling all forms of writing on the GitHub platform.**
 
+![Image of Yaktocat](https://helloacm.com/wp-content/uploads/2016/01/markdown-syntax-language.png)
+
 *What we shoud know about Markdown?*
 - How the Markdown format makes styled collaborative editing easy.
 - How Markdown differs from traditional formatting approaches.
@@ -11,5 +13,4 @@
 
 ## What is Markdown?
 [Markdown](https://daringfireball.net/projects/markdown/) is a way to style text on the web. You control the display of the document; formatting words as bold or italic, adding images, and creating lists are just a few of the things we can do with Markdown.
-
 
