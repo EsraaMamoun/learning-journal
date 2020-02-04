@@ -10,6 +10,10 @@
 
 ### ***Git Website***
 
-To ~~download~~ Git for Linux click [Here](https://git-scm.com/download/linux) .
+To ~~download~~ Git for Linux click [Here](https://git-scm.com/download/linux) . <img align="right" width="100" height="100" src="http://https://oss.deltares.nl/image/image_gallery?uuid=3fff7831-335b-4555-863e-08b5d44367d5&groupId=183920&t=1409142262737">
+
+To ~~download~~ Git for Linux click [ <img align="right" width="100" height="100" src="http://https://oss.deltares.nl/image/image_gallery?uuid=3fff7831-335b-4555-863e-08b5d44367d5&groupId=183920&t=1409142262737"> ](https://git-scm.com/download/linux) . 
+
+
 
 
