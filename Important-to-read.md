@@ -10,7 +10,7 @@
 
 ### ***Git Website***
 
-To ~~download~~ Git for Linux click [Here](https://git-scm.com/download/linux) .
+To ~~download~~ Git for (#AD5C51) Linux click [Here](https://git-scm.com/download/linux) .
 
 
 
