@@ -1,5 +1,7 @@
 # Git Tutorial
 
+![.](https://www.vogella.com/tutorials/Git/images/xmerge_commit20.png.pagespeed.ic.qyGyUxXibh.png)
+
 ## - Version Control
 > Version Control is a system that allows you to revisit various versions of a file or set of files by recording changes. 
 
